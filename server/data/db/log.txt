@@ -1,3 +1,0 @@
-2019-11-23T00:59:33.601-0800 I  CONTROL  [main] Automatically disabling TLS 1.0, to force-enable TLS 1.0 specify --sslDisabledProtocols 'none'
-2019-11-23T00:59:34.037-0800 I  CONTROL  [main] Trying to install Windows service 'MongoDB'
-2019-11-23T00:59:34.039-0800 I  CONTROL  [main] Error connecting to the Service Control Manager: Access is denied. (5)
